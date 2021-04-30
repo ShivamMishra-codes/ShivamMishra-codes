@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ShivamMishra
-- 👀 I’m highly interested in Data Science
+- 👀 I’m a Data Science Aspirant
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data Science and AI Projects
 - 📫 How to reach me:-https://www.linkedin.com/in/shivam-mishra-7b3bab157/
 
 <!---
