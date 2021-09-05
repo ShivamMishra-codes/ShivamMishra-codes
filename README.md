@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShivamMishra
 - 👀 I’m a Data Science Aspirant
-- 🌱 I’m currently learning Data Science
-- 📫 How to reach me:-https://www.linkedin.com/in/shivam-mishra-7b3bab157/
+- 🌱 I’m currently working on automating Data Science Project Life Cycle
+- 📫 How to reach me:-www.linkedin.com/in/shivam-mishra-07
 
 <!---
 ShivamMishra-codes/ShivamMishra-codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
