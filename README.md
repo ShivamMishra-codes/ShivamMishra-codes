@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShivamMishra
-- 👀 I’m a Data Science Aspirant
+- 👀 I’m a Data Science Analyst
 - 🌱 I’m currently working on automating Data Science Project Life Cycle
 - 📫 How to reach me:-www.linkedin.com/in/shivam-mishra-07
 
